@@ -7,7 +7,6 @@
   </a>
 </div>
 
-- ❤ Estudante de Design
 - 👩‍💻 Aprendendo sobre Front-end
 
 <div>
